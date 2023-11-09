@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @KotalSumitCarnot
 - 👀 I’m interested in Android and others
-- 🌱 I’m currently learning React Native
+- 🌱 I’m currently exploring Android
 - 💞️ I’m looking to collaborate on any language,environment etc
 - 📫 How to reach me - I am just a call/sms/email away
 
